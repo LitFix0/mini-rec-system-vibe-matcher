@@ -1,0 +1,13 @@
+Software and Libraries:
+
+* Python 3.8 or higher
+
+* OpenAI Python SDK 
+
+* Pandas (data manipulation)
+
+* NumPy (numerical operations)
+
+* scikit-learn (for cosine similarity calculations)
+
+* matplotlib (for plotting latency graphs)
